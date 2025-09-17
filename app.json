@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "Score",
+    "slug": "score",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/score_logo.png",
+    "scheme": "score",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "android": {
+      "versionCode": 1,
+      "package": "com.hanzala.score",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/score_logo.png",
+        "backgroundColor": "#667eea"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "ios": {
+      "buildNumber": "1.0.0",
+      "bundleIdentifier": "com.hanzala.score",
+      "supportsTablet": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/score_logo.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/score_logo.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#667eea"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "33cb1ed7-a902-40dc-99b4-168c5cb0f81f"
+      }
+    }
+  }
+}
