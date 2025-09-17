@@ -3,6 +3,7 @@
 A comprehensive React Native application built with Expo that provides real-time football data, league standings, team analytics, and match tracking through the Football Data API v4.
 
 ## 🎯 Overview
+<img width="500" height="500" alt="score_logo" src="https://github.com/user-attachments/assets/77077644-fca8-427a-88cc-af10d30b0b6b" />
 
 Score is a modern, cross-platform football application that delivers comprehensive football data with an intuitive user interface. Built with TypeScript and React Native, it offers real-time match tracking, detailed league standings, team analytics, and player statistics across major European leagues.
 
@@ -117,25 +118,34 @@ interface Competition {
 ## 📱 Application Screenshots
 
 ### **Leagues Tab**
-*Screenshots will be added here showing:*
+![WhatsApp Görsel 2025-09-17 saat 18 12 53_5966073f](https://github.com/user-attachments/assets/57f213ea-df80-435e-93e1-bc6d6d373ea0)
+
 - League standings with team positions and points
 - Top scorers and assist leaders
 - League-specific statistics and performance metrics
 
 ### **Teams Tab**
-*Screenshots will be added here showing:*
+![WhatsApp Görsel 2025-09-17 saat 18 14 35_32eddcf9](https://github.com/user-attachments/assets/9d35a5d9-62a3-4c90-87c8-e94914877038)
+
 - Team profiles with squad information
 - Player statistics and performance data
 - Team form analysis and recent results
 
 ### **League Information**
-*Screenshots will be added here showing:*
+![WhatsApp Görsel 2025-09-17 saat 18 12 53_0e7c992d](https://github.com/user-attachments/assets/32f6600c-dc38-42f6-9f46-b8a42d153ac3)
+![WhatsApp Görsel 2025-09-17 saat 18 12 53_4209c0ec](https://github.com/user-attachments/assets/daf09652-e7fd-4f3d-884e-9779570a3768)
+![WhatsApp Görsel 2025-09-17 saat 18 12 53_2f0b06e2](https://github.com/user-attachments/assets/cb4d4b28-1dbe-402a-9bf3-636e9e62007d)
+
 - Detailed league information and season data
 - Competition history and records
 - League-specific news and updates
 
 ### **Team Information**
-*Screenshots will be added here showing:*
+![WhatsApp Görsel 2025-09-17 saat 18 12 53_584cd2f2](https://github.com/user-attachments/assets/f76ede22-fb19-4015-b01f-355dc08788cf)
+![WhatsApp Görsel 2025-09-17 saat 18 12 53_aac207ca](https://github.com/user-attachments/assets/82e9ca5b-b59c-4018-a859-e2e70364b148)
+![WhatsApp Görsel 2025-09-17 saat 18 12 54_a9a11a28](https://github.com/user-attachments/assets/7af5fcdb-9c9a-4697-8f64-ce448cb06de4)
+![WhatsApp Görsel 2025-09-17 saat 18 12 54_d7b5d626](https://github.com/user-attachments/assets/8016fedf-e8ec-432e-afb1-2671c50852fb)
+
 - Comprehensive team statistics and performance metrics
 - Squad depth analysis and player roles
 - Team financial information and transfer history
